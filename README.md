@@ -10,7 +10,7 @@ Sumário: (clique no link para ir até a página de cada formação e se divirta
 
 
 1 - [Campeões](champions.md)
-2 - [Quarteto_Fantático](fantatiscfour.md) 
+2 - [Quarteto_Fantático](fantasticfour.md) 
 3 - [Os_Guardiões_da_Galáxia](guardioesdagalaxia.md)
 4 - [Vingadores](vingadoidos.md)
 5 - [X-Force](xforce.md)
