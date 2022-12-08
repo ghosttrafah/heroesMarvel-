@@ -6,4 +6,4 @@ Miss Marvel, Miles Morales, Nova, Coração de Ferro e Viv.
 
 # ![banner](https://eb6f93.a2cdn1.secureserver.net/wp-content/uploads/2022/04/todas-equipes-marvel-250422-5.jpg)
 
-[Voltar](README.MD)
+[Voltar](README.md)

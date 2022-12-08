@@ -6,4 +6,4 @@ Membros atuais: Senhor das Estrelas, Groot, Rocket Racoon, Phylla-Vell, Serpente
 
 # ![banner](https://eb6f93.a2cdn1.secureserver.net/wp-content/uploads/2022/04/todas-equipes-marvel-250422-7.jpg)
 
-[Voltar](README.MD)
+[Voltar](README.md)
