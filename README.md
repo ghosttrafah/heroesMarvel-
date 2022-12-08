@@ -5,9 +5,9 @@ Neste projeto irei listar algumas formações de heróis atuais da marvel, com f
 
 Sumário: (clique no link para ir até a página de cada formação e se divirta):
 
-[Campeões] (heroesmarvel-/champions.md)
-[Quarteto_Fantático] (heroesmarvel-/fantatiscfour.md) 
-[Os_Guardiões_da_Galáxia] (heroesmarvel-/guardioesdagalaxia.md)
-[Vingadores] (heroesmarvel-/vingadoidos.md)
-[X-Force] (heroesmarvel-/xforce.md)
-[X-men] (heroesmarvel-/xmen.md)
+1 - [Campeões](heroesmarvel-/champions.md)
+2 - [Quarteto_Fantático](heroesmarvel-/fantatiscfour.md) 
+3 - [Os_Guardiões_da_Galáxia](heroesmarvel-/guardioesdagalaxia.md)
+4 - [Vingadores](heroesmarvel-/vingadoidos.md)
+5 - [X-Force](heroesmarvel-/xforce.md)
+6 - [X-men](heroesmarvel-/xmen.md)
